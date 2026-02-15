@@ -1,6 +1,6 @@
 {
+  "homepage": "https://djabri777.github.io/Sec-Ops-version-1/",
   "name": "secops-app",
-  "homepage": "https://github.com/Djabri777/Sec-Ops-version-1",
   "version": "1.0.0",
   "type": "module",
   "private": true,
@@ -25,6 +25,6 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   }
 }

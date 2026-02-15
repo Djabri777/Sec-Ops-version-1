@@ -24,11 +24,7 @@ const ContactPage = () => {
   const serviceTypes = [
     'Web Application Pentesting',
     'Network Security Audit',
-    'Cloud Infrastructure Security',
-    'Mobile Application Security',
-    'Source Code Review',
     'Red Team Operations',
-    'General Inquiry'
   ];
 
   const handleChange = (e) => {

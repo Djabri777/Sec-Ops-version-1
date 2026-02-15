@@ -15,7 +15,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Sec-Ops-version-1">
       <Layout>
         <Routes>
           <Route path="/" element={<HomePage />} />
